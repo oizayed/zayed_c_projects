@@ -16,6 +16,7 @@
  * 		output: [1,3]
  *
  * *****************************************************************/
+#include "Algorithm_1.h"
 
 int* twoSum(int* nums, int numsSize, int target, int* returnSize)
 {

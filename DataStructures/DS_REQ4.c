@@ -10,7 +10,7 @@
 
 void DS_REQ4(void)
 {
-	char str[] = "()(5+4/2)(5*2-1)";
+	char str[] = "()(5+49/2)*(521*2-1)()";
 	printf("%lld", evaluate(str));
 }
 
